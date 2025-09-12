@@ -19,7 +19,7 @@ To help find related materials, the content is categorized based on their overal
 - [**Model-Based Systems Engineering (MBSE)**](#model-based-systems-engineering-mbse)
 
 
-Note: Recently added items are identified with a ":star:*(New! 20xx-xx)*" at the beginning of the line. 
+Note: Recently added items are identified with a " :star: *(New! 20xx-xx)*" at the beginning of the line. 
 
 
 ## Full System
