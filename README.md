@@ -68,7 +68,7 @@ Note: Recently added items are identified with a " :star: *(New! 20xx-xx)*" at t
 ## Powertrain - Electric Motor and Transmission
 
 ### Highlights
-- [**MATLAB and Simulink for Motor Drives and Traction Motors**](https://www.mathworks.com/solutions/electrification/motor-drives-traction-motors.html) \[Content Collection\] — Provides tools to model, simulate, and implement motor control algorithms for traction motors, including fault detection, autotuning, and hardware-in-the-loop testing.
+- [**MATLAB and Simulink for Motor Drives and Traction Motors**](https://www.mathworks.com/solutions/power-electronics/motor-drives-traction-motors.html) \[Content Collection\] — Provides tools to model, simulate, and implement motor control algorithms for traction motors, including fault detection, autotuning, and hardware-in-the-loop testing.
 - [**Motor Control Design with Simulink**](https://www.mathworks.com/videos/motor-control-design-with-matlab-and-simulink-1563169611494.html) \[Content Collection\] — Demonstrates how to design field-oriented control systems in Simulink, including PI controller tuning and flux weakening strategies.
 - [**How to Design Motor Controllers Using Simscape Electrical**](https://www.mathworks.com/videos/series/how-to-design-motor-controllers-using-simscape-electrical.html) \[Video Series\] — Explains how to model BLDC motors, simulate back-EMF, and design speed controllers using Simscape Electrical.
 - [**What Is Field-Oriented Control?**](https://www.mathworks.com/discovery/field-oriented-control.html) \[Content Collection\] — Describes the principles and implementation of field-oriented control for PMSM and BLDC motors, including transformations and modulation techniques.
@@ -126,7 +126,7 @@ Note: Recently added items are identified with a " :star: *(New! 20xx-xx)*" at t
 ## Energy - Battery
 
 ### Highlights
-- [**MATLAB and Simulink for Battery Systems**](https://www.mathworks.com/solutions/electrification/battery-systems.html) \[Content Collection\] — Provides tools for modeling battery cells and packs, designing battery management systems, and simulating thermal and electrical behavior under various operating conditions.
+- [**MATLAB and Simulink for Battery Systems**](https://www.mathworks.com/solutions/battery-systems.html) \[Content Collection\] — Provides tools for modeling battery cells and packs, designing battery management systems, and simulating thermal and electrical behavior under various operating conditions.
 - [**What Is Battery Modeling?**](https://www.mathworks.com/discovery/battery-modeling.html) \[Content Collection\] — Explains how battery models are used for characterization, SOC/SOH estimation, algorithm development, and real-time simulation, with a focus on equivalent circuit models.
 - [**Battery Pack Modeling**](https://www.mathworks.com/help/simscape-battery/create-battery-pack.html) \[Doc, Content Collection\] — Offers a workflow for designing battery packs using Simscape Battery, including cell configuration, thermal modeling, and integration with BMS and cooling systems.
 - [**Simscape Battery Essentials**](https://in.mathworks.com/videos/series/simscape-battery-essentials.html) \[Video Series, Content Collection\] — A video series that teaches how to build, parameterize, and simulate battery modules and packs, including SOC estimation, cell balancing, and thermal analysis.
